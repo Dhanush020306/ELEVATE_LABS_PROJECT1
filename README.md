@@ -102,6 +102,6 @@ This project was developed as part of a **Cybersecurity Internship Program** to 
 
 ### 👨‍💻 Author
 
-NAME: **Arjun Thatikonda**
+NAME: **Dhanush Reddy**
 Intern – Cybersecurity
-GitHub: [ARJUN1675](https://github.com/ARJUN1675)
+
