@@ -42,7 +42,6 @@ log-analyzer/
 │   ├── apache_sample.log
 │   └── ssh_sample.log
 └── outputs/
-    ├── reports/
     └── plots/
 
 ---
